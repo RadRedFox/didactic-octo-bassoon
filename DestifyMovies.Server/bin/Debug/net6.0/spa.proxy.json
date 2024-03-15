@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "B:\\Projects\\personal\\repos\\DestifyMovies\\DestifyMovies.Server\\..\\destifymovies.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

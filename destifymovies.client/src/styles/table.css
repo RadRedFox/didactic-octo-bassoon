@@ -1,0 +1,27 @@
+.table {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0.5em 1em;
+    width: 100%;
+}
+
+.table_row {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1em;
+    padding: 0.25em 0;
+    width: 100%;
+    border-bottom: 1px solid black;
+}
+
+.table_row:last-child {
+    border-bottom: 1px solid transparent;
+}
+
+.table_cell {
+    flex: 1;
+}

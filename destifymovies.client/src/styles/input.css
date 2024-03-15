@@ -1,0 +1,32 @@
+.input_wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1em;
+    min-width: calc(25em + 1em + 5em);
+    width: 100%;
+}
+
+.input_wrapper + .input_wrapper {
+    padding-top: 0.5em;
+}
+
+.input_label {
+    display: block;
+}
+
+.input_input {
+    display: block;
+    padding: 0.5rem 0.5rem;
+    flex: 1;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    border-bottom: 1px solid black;
+    outline: none;
+}
+
+.input_input:focus,
+.input_input:focus-visible {
+    outline: 2px auto -webkit-focus-ring-color;
+}

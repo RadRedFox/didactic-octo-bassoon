@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "Hash": "40dJU4fWRRXlbnRuz1uTE/zUx22aELWD9kuA5p5X6t8=",
+  "Source": "DestifyMovies.Server",
+  "BasePath": "_content/DestifyMovies.Server",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "B:\\Projects\\personal\\repos\\DestifyMovies\\destifymovies.client\\destifymovies.client.esproj",
+      "Version": 2,
+      "Source": "destifymovies.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "B:\\Projects\\personal\\repos\\DestifyMovies\\destifymovies.client\\dist\\assets\\index-B4REZn5f.js",
+      "SourceId": "destifymovies.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "B:\\Projects\\personal\\repos\\DestifyMovies\\destifymovies.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "assets/index-B4REZn5f.js",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "B:\\Projects\\personal\\repos\\DestifyMovies\\destifymovies.client\\dist\\assets\\index-B4REZn5f.js"
+    },
+    {
+      "Identity": "B:\\Projects\\personal\\repos\\DestifyMovies\\destifymovies.client\\dist\\assets\\index-BpjuTBmM.css",
+      "SourceId": "destifymovies.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "B:\\Projects\\personal\\repos\\DestifyMovies\\destifymovies.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "assets/index-BpjuTBmM.css",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "B:\\Projects\\personal\\repos\\DestifyMovies\\destifymovies.client\\dist\\assets\\index-BpjuTBmM.css"
+    },
+    {
+      "Identity": "B:\\Projects\\personal\\repos\\DestifyMovies\\destifymovies.client\\dist\\index.html",
+      "SourceId": "destifymovies.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "B:\\Projects\\personal\\repos\\DestifyMovies\\destifymovies.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "index.html",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "B:\\Projects\\personal\\repos\\DestifyMovies\\destifymovies.client\\dist\\index.html"
+    }
+  ]
+}

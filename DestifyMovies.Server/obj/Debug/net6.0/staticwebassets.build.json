@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "hc+o0n0mykcCTi96i2bX3XZiQg3nTy7OY6mv2X8TUIY=",
+  "Source": "DestifyMovies.Server",
+  "BasePath": "_content/DestifyMovies.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "B:\\Projects\\personal\\repos\\DestifyMovies\\destifymovies.client\\destifymovies.client.esproj",
+      "Version": 2,
+      "Source": "destifymovies.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

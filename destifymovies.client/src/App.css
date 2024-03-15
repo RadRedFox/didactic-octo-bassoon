@@ -1,0 +1,24 @@
+﻿#root {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+}
+
+.nav_wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5em 1em;
+    width: 100%;
+}
+
+.nav_title {
+    display: block;
+    margin: 0;
+    width: 10em;
+    font-size: 1.25rem;
+    cursor: pointer;
+}
